@@ -12,6 +12,7 @@
     "@babel/preset-react": "^7.23.3",
     "@react-three/drei": "^9.92.7",
     "@react-three/fiber": "^8.15.12",
+    "leva": "^0.9.35",
     "next": "^14.0.4",
     "r3f-perf": "^7.1.2",
     "react": "^18.2.0",
